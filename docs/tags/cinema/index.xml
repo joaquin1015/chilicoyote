@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cinema on Chile Coyote</title>
-    <link>joaquin1015.github.io/chilicoyote/tags/cinema/</link>
+    <link>https://joaquin1015.github.io/chilicoyote/tags/cinema/</link>
     <description>Recent content in cinema on Chile Coyote</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Oct 2016 15:25:19 +0200</lastBuildDate>
     
-	<atom:link href="/chilicoyote/tags/cinema/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://joaquin1015.github.io/chilicoyote/tags/cinema/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My first post</title>
-      <link>joaquin1015.github.io/chilicoyote/blog/my-first-post/</link>
+      <link>https://joaquin1015.github.io/chilicoyote/blog/my-first-post/</link>
       <pubDate>Sat, 01 Oct 2016 15:25:19 +0200</pubDate>
       
-      <guid>joaquin1015.github.io/chilicoyote/blog/my-first-post/</guid>
+      <guid>https://joaquin1015.github.io/chilicoyote/blog/my-first-post/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus.</description>
     </item>
     
