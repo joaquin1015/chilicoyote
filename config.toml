@@ -1,0 +1,32 @@
+baseURL = "http://localhost:1313"
+languageCode = "en-us"
+title = "Chile Coyote"
+summaryLength = 25
+theme = "mediumish-gohugo-theme"
+
+[params]
+  logo = "/images/icon.png"
+  description ="another shitty blog!"
+
+[params.author]
+  name = "The Coyote"
+  thumbnail = "/images/tm_web.jpg"
+  description = "Authorsaurus Rex"
+
+SectionPagesMenu = "main"
+
+ [[menu.main]]
+        name = "Albuquerque"
+        weight = -110
+        identifier = "blog"
+        url = "/blog/"
+[[menu.main]]
+        name = "Philosophy"
+        weight = -110
+        identifier = "philosophy"
+        url = "/tags/philosophy"
+[[menu.main]]
+        name = "Cinema"
+        weight = -150
+        identifier = "mental-health"
+        url = "/tags/mental-health"

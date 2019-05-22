@@ -1,0 +1,33 @@
+<!-- begin post -->
+<div class="col-lg-3 col-md-6 col-sm-8 col-xs-12 card-group">
+    <div class="card h-100">
+        <div class="maxthumb col-xs-12">
+            <a href="{{ .URL }}">
+                {{with .Params.image}}
+                    <img class="img-fluid" src="{{ . | urlize | relURL }}" alt="A thumbnail image">
+                {{end}}                
+            </a>
+        </div>
+        <div class="card-body col-xs-12">
+            <h2 class="card-title"><a class="text-dark" href="{{ .URL }}">{{ .Title }}</a></h2>
+            <!-- <h4 class="card-text">{{ .Summary }}</h4> -->
+            <!-- <a href="{{ .Permalink }}">Read More</a>          -->
+        </div>
+        <div class="card-footer bg-white col-xs-12">
+                {{if isset .Site.Params.author "name"}}
+                {{if isset .Site.Params.author "thumbnail"}}
+                    <span class="meta-footer-thumb">
+                    <img class="author-thumb col-xs-12" src="{{ .Site.Params.author.thumbnail | urlize | relURL  }}" alt="{{ .Site.Params.author.name }}">
+                    </span>                
+                    <span class="author-meta">
+                    <span class="author-name col-xs-12">{{ .Site.Params.author.name }}</a></span><br/>
+                {{end}}
+                {{end}}
+                <span class="post-date">{{ dateFormat "Jan 2, 2006" .PublishDate }} - {{ .ReadingTime }} min read </span>
+                </span>
+                <span class="post-read-more"><a href="{{ .URL }}" title="Read Story"></a></span>
+                <div class="clearfix"></div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
