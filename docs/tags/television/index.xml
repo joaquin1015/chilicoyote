@@ -6,10 +6,19 @@
     <description>Recent content in television on Chile Coyote</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 May 2019 15:25:19 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2019 15:25:19 +0200</lastBuildDate>
     
 	<atom:link href="/chilicoyote/tags/television/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Skyler</title>
+      <link>/chilicoyote/blog/skyler/</link>
+      <pubDate>Tue, 21 May 2019 15:25:19 +0200</pubDate>
+      
+      <guid>/chilicoyote/blog/skyler/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus.</description>
+    </item>
     
     <item>
       <title>Breaking Bad Locations</title>

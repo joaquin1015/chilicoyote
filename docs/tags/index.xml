@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Chile Coyote</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 May 2019 15:25:19 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2019 15:25:19 +0200</lastBuildDate>
     
 	<atom:link href="/chilicoyote/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,54 @@
     <item>
       <title>albuquerque</title>
       <link>/chilicoyote/tags/albuquerque/</link>
-      <pubDate>Mon, 20 May 2019 15:25:19 +0200</pubDate>
+      <pubDate>Tue, 21 May 2019 15:25:19 +0200</pubDate>
       
       <guid>/chilicoyote/tags/albuquerque/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cinema</title>
+      <link>/chilicoyote/tags/cinema/</link>
+      <pubDate>Tue, 21 May 2019 15:25:19 +0200</pubDate>
+      
+      <guid>/chilicoyote/tags/cinema/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>locations</title>
+      <link>/chilicoyote/tags/locations/</link>
+      <pubDate>Tue, 21 May 2019 15:25:19 +0200</pubDate>
+      
+      <guid>/chilicoyote/tags/locations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>television</title>
+      <link>/chilicoyote/tags/television/</link>
+      <pubDate>Tue, 21 May 2019 15:25:19 +0200</pubDate>
+      
+      <guid>/chilicoyote/tags/television/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tours</title>
+      <link>/chilicoyote/tags/tours/</link>
+      <pubDate>Tue, 21 May 2019 15:25:19 +0200</pubDate>
+      
+      <guid>/chilicoyote/tags/tours/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>zombies</title>
+      <link>/chilicoyote/tags/zombies/</link>
+      <pubDate>Tue, 21 May 2019 15:25:19 +0200</pubDate>
+      
+      <guid>/chilicoyote/tags/zombies/</guid>
       <description></description>
     </item>
     
@@ -66,15 +111,6 @@
     </item>
     
     <item>
-      <title>locations</title>
-      <link>/chilicoyote/tags/locations/</link>
-      <pubDate>Mon, 20 May 2019 15:25:19 +0200</pubDate>
-      
-      <guid>/chilicoyote/tags/locations/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>mental health</title>
       <link>/chilicoyote/tags/mental-health/</link>
       <pubDate>Mon, 20 May 2019 15:25:19 +0200</pubDate>
@@ -93,47 +129,11 @@
     </item>
     
     <item>
-      <title>television</title>
-      <link>/chilicoyote/tags/television/</link>
-      <pubDate>Mon, 20 May 2019 15:25:19 +0200</pubDate>
-      
-      <guid>/chilicoyote/tags/television/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tours</title>
-      <link>/chilicoyote/tags/tours/</link>
-      <pubDate>Mon, 20 May 2019 15:25:19 +0200</pubDate>
-      
-      <guid>/chilicoyote/tags/tours/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>zombies</title>
-      <link>/chilicoyote/tags/zombies/</link>
-      <pubDate>Mon, 20 May 2019 15:25:19 +0200</pubDate>
-      
-      <guid>/chilicoyote/tags/zombies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>area 51</title>
       <link>/chilicoyote/tags/area-51/</link>
       <pubDate>Mon, 01 Oct 2018 15:25:19 +0200</pubDate>
       
       <guid>/chilicoyote/tags/area-51/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cinema</title>
-      <link>/chilicoyote/tags/cinema/</link>
-      <pubDate>Sat, 01 Oct 2016 15:25:19 +0200</pubDate>
-      
-      <guid>/chilicoyote/tags/cinema/</guid>
       <description></description>
     </item>
     

@@ -4,7 +4,60 @@
   
   <url>
     <loc>/chilicoyote/blog/</loc>
-    <lastmod>2018-10-08T18:55:29+02:00</lastmod>
+    <lastmod>2019-10-08T18:55:29+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/chilicoyote/</loc>
+    <lastmod>2019-10-08T18:55:29+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/chilicoyote/blog/skyler/</loc>
+    <lastmod>2019-10-08T18:55:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/chilicoyote/tags/</loc>
+    <lastmod>2019-10-08T18:55:29+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/chilicoyote/tags/albuquerque/</loc>
+    <lastmod>2019-10-08T18:55:29+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/chilicoyote/tags/cinema/</loc>
+    <lastmod>2019-10-08T18:55:29+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/chilicoyote/tags/locations/</loc>
+    <lastmod>2019-10-08T18:55:29+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/chilicoyote/tags/television/</loc>
+    <lastmod>2019-10-08T18:55:29+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/chilicoyote/tags/tours/</loc>
+    <lastmod>2019-10-08T18:55:29+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/chilicoyote/tags/zombies/</loc>
+    <lastmod>2019-10-08T18:55:29+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -24,12 +77,6 @@
   </url>
   
   <url>
-    <loc>/chilicoyote/</loc>
-    <lastmod>2018-10-08T18:55:29+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/chilicoyote/blog/hank/</loc>
     <lastmod>2018-10-08T18:55:29+02:00</lastmod>
   </url>
@@ -42,18 +89,6 @@
   <url>
     <loc>/chilicoyote/blog/santa-clarita-diet/</loc>
     <lastmod>2018-10-08T18:55:29+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/chilicoyote/tags/</loc>
-    <lastmod>2018-10-08T18:55:29+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/chilicoyote/tags/albuquerque/</loc>
-    <lastmod>2018-10-08T18:55:29+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -87,12 +122,6 @@
   </url>
   
   <url>
-    <loc>/chilicoyote/tags/locations/</loc>
-    <lastmod>2018-10-08T18:55:29+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/chilicoyote/tags/mental-health/</loc>
     <lastmod>2018-10-08T18:55:29+02:00</lastmod>
     <priority>0</priority>
@@ -100,24 +129,6 @@
   
   <url>
     <loc>/chilicoyote/tags/philosophy/</loc>
-    <lastmod>2018-10-08T18:55:29+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/chilicoyote/tags/television/</loc>
-    <lastmod>2018-10-08T18:55:29+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/chilicoyote/tags/tours/</loc>
-    <lastmod>2018-10-08T18:55:29+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/chilicoyote/tags/zombies/</loc>
     <lastmod>2018-10-08T18:55:29+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -141,12 +152,6 @@
   <url>
     <loc>/chilicoyote/blog/my-first-post/</loc>
     <lastmod>2016-10-08T18:55:29+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/chilicoyote/tags/cinema/</loc>
-    <lastmod>2016-10-08T18:55:29+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
