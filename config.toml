@@ -2,7 +2,7 @@ baseURL = "https://joaquin1015.github.io/chilicoyote/"
 languageCode = "en-us"
 title = "Chile Coyote"
 summaryLength = 25
-theme = "mediumish-gohugo-theme"
+theme = "/themes/mediumish-gohugo-theme"
 publishDir = "docs"
 
 [params]
