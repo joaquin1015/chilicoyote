@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>area 51 on Chile Coyote</title>
-    <link>joaquin1015.github.io/chilicoyote/tags/area-51/</link>
+    <link>/tags/area-51/</link>
     <description>Recent content in area 51 on Chile Coyote</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Oct 2018 15:25:19 +0200</lastBuildDate>
     
-	<atom:link href="joaquin1015.github.io/chilicoyote/tags/area-51/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/area-51/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Alien</title>
-      <link>joaquin1015.github.io/chilicoyote/blog/alien/</link>
+      <link>/blog/alien/</link>
       <pubDate>Mon, 01 Oct 2018 15:25:19 +0200</pubDate>
       
-      <guid>joaquin1015.github.io/chilicoyote/blog/alien/</guid>
+      <guid>/blog/alien/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus.</description>
     </item>
     
