@@ -2,93 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chile Coyote</title>
-    <link>https://joaquin1015.github.io/chilicoyote/</link>
+    <link>/chilicoyote/</link>
     <description>Recent content on Chile Coyote</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 May 2019 15:25:19 +0200</lastBuildDate>
     
-	<atom:link href="https://joaquin1015.github.io/chilicoyote/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/chilicoyote/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Breaking Bad Locations</title>
-      <link>https://joaquin1015.github.io/chilicoyote/blog/breaking-bad-locations/</link>
+      <link>/chilicoyote/blog/breaking-bad-locations/</link>
       <pubDate>Mon, 20 May 2019 15:25:19 +0200</pubDate>
       
-      <guid>https://joaquin1015.github.io/chilicoyote/blog/breaking-bad-locations/</guid>
+      <guid>/chilicoyote/blog/breaking-bad-locations/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus.</description>
     </item>
     
     <item>
       <title>Breaking Better Saul</title>
-      <link>https://joaquin1015.github.io/chilicoyote/blog/breaking-better-saul/</link>
+      <link>/chilicoyote/blog/breaking-better-saul/</link>
       <pubDate>Mon, 20 May 2019 15:25:19 +0200</pubDate>
       
-      <guid>https://joaquin1015.github.io/chilicoyote/blog/breaking-better-saul/</guid>
+      <guid>/chilicoyote/blog/breaking-better-saul/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus.</description>
+    </item>
+    
+    <item>
+      <title>Chandler</title>
+      <link>/chilicoyote/blog/chandler/</link>
+      <pubDate>Mon, 20 May 2019 15:25:19 +0200</pubDate>
+      
+      <guid>/chilicoyote/blog/chandler/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus.</description>
     </item>
     
     <item>
       <title>Hank</title>
-      <link>https://joaquin1015.github.io/chilicoyote/blog/hank/</link>
+      <link>/chilicoyote/blog/hank/</link>
       <pubDate>Mon, 20 May 2019 15:25:19 +0200</pubDate>
       
-      <guid>https://joaquin1015.github.io/chilicoyote/blog/hank/</guid>
+      <guid>/chilicoyote/blog/hank/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus.</description>
     </item>
     
     <item>
       <title>Heisenberg</title>
-      <link>https://joaquin1015.github.io/chilicoyote/blog/heisenberg/</link>
+      <link>/chilicoyote/blog/heisenberg/</link>
       <pubDate>Mon, 20 May 2019 15:25:19 +0200</pubDate>
       
-      <guid>https://joaquin1015.github.io/chilicoyote/blog/heisenberg/</guid>
+      <guid>/chilicoyote/blog/heisenberg/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus.</description>
     </item>
     
     <item>
       <title>Santa Clarita Diet</title>
-      <link>https://joaquin1015.github.io/chilicoyote/blog/santa-clarita-diet/</link>
+      <link>/chilicoyote/blog/santa-clarita-diet/</link>
       <pubDate>Mon, 20 May 2019 15:25:19 +0200</pubDate>
       
-      <guid>https://joaquin1015.github.io/chilicoyote/blog/santa-clarita-diet/</guid>
+      <guid>/chilicoyote/blog/santa-clarita-diet/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus.</description>
     </item>
     
     <item>
       <title>Alien</title>
-      <link>https://joaquin1015.github.io/chilicoyote/blog/alien/</link>
+      <link>/chilicoyote/blog/alien/</link>
       <pubDate>Mon, 01 Oct 2018 15:25:19 +0200</pubDate>
       
-      <guid>https://joaquin1015.github.io/chilicoyote/blog/alien/</guid>
+      <guid>/chilicoyote/blog/alien/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus.</description>
     </item>
     
     <item>
       <title>Alien</title>
-      <link>https://joaquin1015.github.io/chilicoyote/blog/doom/</link>
+      <link>/chilicoyote/blog/doom/</link>
       <pubDate>Mon, 01 Oct 2018 15:25:19 +0200</pubDate>
       
-      <guid>https://joaquin1015.github.io/chilicoyote/blog/doom/</guid>
+      <guid>/chilicoyote/blog/doom/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus.</description>
     </item>
     
     <item>
       <title>Wormholes &amp; Youthful Trolls</title>
-      <link>https://joaquin1015.github.io/chilicoyote/blog/worm-holes-and-youthful-trolls/</link>
+      <link>/chilicoyote/blog/worm-holes-and-youthful-trolls/</link>
       <pubDate>Mon, 01 Oct 2018 15:25:19 +0200</pubDate>
       
-      <guid>https://joaquin1015.github.io/chilicoyote/blog/worm-holes-and-youthful-trolls/</guid>
+      <guid>/chilicoyote/blog/worm-holes-and-youthful-trolls/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sed arcu rutrum, venenatis lectus in, imperdiet odio. Vestibulum sit amet risus odio. Interdum et malesuada fames ac ante ipsum primis in faucibus.</description>
     </item>
     
     <item>
       <title>My first post</title>
-      <link>https://joaquin1015.github.io/chilicoyote/blog/my-first-post/</link>
+      <link>/chilicoyote/blog/my-first-post/</link>
       <pubDate>Sat, 01 Oct 2016 15:25:19 +0200</pubDate>
       
-      <guid>https://joaquin1015.github.io/chilicoyote/blog/my-first-post/</guid>
+      <guid>/chilicoyote/blog/my-first-post/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus.</description>
     </item>
     

@@ -1,4 +1,4 @@
-baseURL = "https://joaquin1015.github.io/chilicoyote/"
+baseURL = "/chilicoyote/"
 languageCode = "en-us"
 title = "Chile Coyote"
 summaryLength = 25

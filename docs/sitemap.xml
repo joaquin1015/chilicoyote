@@ -3,172 +3,177 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://joaquin1015.github.io/chilicoyote/blog/</loc>
+    <loc>/chilicoyote/blog/</loc>
     <lastmod>2018-10-08T18:55:29+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://joaquin1015.github.io/chilicoyote/blog/breaking-bad-locations/</loc>
+    <loc>/chilicoyote/blog/breaking-bad-locations/</loc>
     <lastmod>2018-10-08T18:55:29+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://joaquin1015.github.io/chilicoyote/blog/breaking-better-saul/</loc>
+    <loc>/chilicoyote/blog/breaking-better-saul/</loc>
     <lastmod>2018-10-08T18:55:29+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://joaquin1015.github.io/chilicoyote/</loc>
-    <lastmod>2018-10-08T18:55:29+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://joaquin1015.github.io/chilicoyote/blog/hank/</loc>
+    <loc>/chilicoyote/blog/chandler/</loc>
     <lastmod>2018-10-08T18:55:29+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://joaquin1015.github.io/chilicoyote/blog/heisenberg/</loc>
-    <lastmod>2018-10-08T18:55:29+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://joaquin1015.github.io/chilicoyote/blog/santa-clarita-diet/</loc>
-    <lastmod>2018-10-08T18:55:29+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://joaquin1015.github.io/chilicoyote/tags/</loc>
+    <loc>/chilicoyote/</loc>
     <lastmod>2018-10-08T18:55:29+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://joaquin1015.github.io/chilicoyote/tags/albuquerque/</loc>
+    <loc>/chilicoyote/blog/hank/</loc>
+    <lastmod>2018-10-08T18:55:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/chilicoyote/blog/heisenberg/</loc>
+    <lastmod>2018-10-08T18:55:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/chilicoyote/blog/santa-clarita-diet/</loc>
+    <lastmod>2018-10-08T18:55:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/chilicoyote/tags/</loc>
     <lastmod>2018-10-08T18:55:29+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://joaquin1015.github.io/chilicoyote/tags/art/</loc>
+    <loc>/chilicoyote/tags/albuquerque/</loc>
     <lastmod>2018-10-08T18:55:29+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://joaquin1015.github.io/chilicoyote/tags/cycling/</loc>
+    <loc>/chilicoyote/tags/art/</loc>
     <lastmod>2018-10-08T18:55:29+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://joaquin1015.github.io/chilicoyote/tags/environment/</loc>
+    <loc>/chilicoyote/tags/cycling/</loc>
     <lastmod>2018-10-08T18:55:29+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://joaquin1015.github.io/chilicoyote/tags/food/</loc>
+    <loc>/chilicoyote/tags/environment/</loc>
     <lastmod>2018-10-08T18:55:29+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://joaquin1015.github.io/chilicoyote/tags/interesting/</loc>
+    <loc>/chilicoyote/tags/food/</loc>
     <lastmod>2018-10-08T18:55:29+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://joaquin1015.github.io/chilicoyote/tags/locations/</loc>
+    <loc>/chilicoyote/tags/interesting/</loc>
     <lastmod>2018-10-08T18:55:29+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://joaquin1015.github.io/chilicoyote/tags/mental-health/</loc>
+    <loc>/chilicoyote/tags/locations/</loc>
     <lastmod>2018-10-08T18:55:29+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://joaquin1015.github.io/chilicoyote/tags/philosophy/</loc>
+    <loc>/chilicoyote/tags/mental-health/</loc>
     <lastmod>2018-10-08T18:55:29+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://joaquin1015.github.io/chilicoyote/tags/television/</loc>
+    <loc>/chilicoyote/tags/philosophy/</loc>
     <lastmod>2018-10-08T18:55:29+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://joaquin1015.github.io/chilicoyote/tags/tours/</loc>
+    <loc>/chilicoyote/tags/television/</loc>
     <lastmod>2018-10-08T18:55:29+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://joaquin1015.github.io/chilicoyote/tags/zombies/</loc>
+    <loc>/chilicoyote/tags/tours/</loc>
     <lastmod>2018-10-08T18:55:29+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://joaquin1015.github.io/chilicoyote/blog/alien/</loc>
-    <lastmod>2018-10-08T18:55:29+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://joaquin1015.github.io/chilicoyote/blog/doom/</loc>
-    <lastmod>2018-10-08T18:55:29+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://joaquin1015.github.io/chilicoyote/blog/worm-holes-and-youthful-trolls/</loc>
-    <lastmod>2018-10-08T18:55:29+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://joaquin1015.github.io/chilicoyote/tags/area-51/</loc>
+    <loc>/chilicoyote/tags/zombies/</loc>
     <lastmod>2018-10-08T18:55:29+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://joaquin1015.github.io/chilicoyote/blog/my-first-post/</loc>
+    <loc>/chilicoyote/blog/alien/</loc>
+    <lastmod>2018-10-08T18:55:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/chilicoyote/blog/doom/</loc>
+    <lastmod>2018-10-08T18:55:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/chilicoyote/blog/worm-holes-and-youthful-trolls/</loc>
+    <lastmod>2018-10-08T18:55:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/chilicoyote/tags/area-51/</loc>
+    <lastmod>2018-10-08T18:55:29+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/chilicoyote/blog/my-first-post/</loc>
     <lastmod>2016-10-08T18:55:29+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://joaquin1015.github.io/chilicoyote/tags/cinema/</loc>
-    <lastmod>2016-10-08T18:55:29+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://joaquin1015.github.io/chilicoyote/tags/latin-america/</loc>
-    <lastmod>2016-10-08T18:55:29+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://joaquin1015.github.io/chilicoyote/tags/music/</loc>
+    <loc>/chilicoyote/tags/cinema/</loc>
     <lastmod>2016-10-08T18:55:29+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://joaquin1015.github.io/chilicoyote/tags/policy/</loc>
+    <loc>/chilicoyote/tags/latin-america/</loc>
     <lastmod>2016-10-08T18:55:29+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://joaquin1015.github.io/chilicoyote/categories/</loc>
+    <loc>/chilicoyote/tags/music/</loc>
+    <lastmod>2016-10-08T18:55:29+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/chilicoyote/tags/policy/</loc>
+    <lastmod>2016-10-08T18:55:29+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/chilicoyote/categories/</loc>
     <priority>0</priority>
   </url>
   

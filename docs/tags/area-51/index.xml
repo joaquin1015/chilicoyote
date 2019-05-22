@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>area 51 on Chile Coyote</title>
-    <link>https://joaquin1015.github.io/chilicoyote/tags/area-51/</link>
+    <link>/chilicoyote/tags/area-51/</link>
     <description>Recent content in area 51 on Chile Coyote</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Oct 2018 15:25:19 +0200</lastBuildDate>
     
-	<atom:link href="https://joaquin1015.github.io/chilicoyote/tags/area-51/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/chilicoyote/tags/area-51/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Alien</title>
-      <link>https://joaquin1015.github.io/chilicoyote/blog/alien/</link>
+      <link>/chilicoyote/blog/alien/</link>
       <pubDate>Mon, 01 Oct 2018 15:25:19 +0200</pubDate>
       
-      <guid>https://joaquin1015.github.io/chilicoyote/blog/alien/</guid>
+      <guid>/chilicoyote/blog/alien/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus.</description>
     </item>
     
     <item>
       <title>Alien</title>
-      <link>https://joaquin1015.github.io/chilicoyote/blog/doom/</link>
+      <link>/chilicoyote/blog/doom/</link>
       <pubDate>Mon, 01 Oct 2018 15:25:19 +0200</pubDate>
       
-      <guid>https://joaquin1015.github.io/chilicoyote/blog/doom/</guid>
+      <guid>/chilicoyote/blog/doom/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus.</description>
     </item>
     
