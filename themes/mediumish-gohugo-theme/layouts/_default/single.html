@@ -89,7 +89,7 @@
                 <div class="row flex-nowrap listrecent container-fluid">
                     {{$taggedContent := (index .Site.Taxonomies.tags (lower "albuquerque")).Pages }}
                     {{ $pages := $taggedContent}}
-                    {{ range first 8 $pages }}
+                    {{ range first 6 $pages }}
                         {{- partial "list-partials/shortpostbox.html" . -}}
                     {{end}}
                 <!-- </div> -->
